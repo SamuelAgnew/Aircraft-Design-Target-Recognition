@@ -1,9 +1,9 @@
 # Changes from the initial code
 The base of this code was created by Kevin Shek, however the added files which I have added are as follows:
-gps_coords.py
-Camera_Live_Stream.py
-Autofocus.py
-send_sms.py
+  <li>gps_coords.py <li>
+  <li>Camera_Live_Stream.py <li>
+  <li>Autofocus.py <li>
+  <li>send_sms.py <li>
 
 As described in the report problems in other areas led to less time being spent on this image recognition code than initially desired and so isn't to the level I wanted. That being said I have thoroughly enjoyed this project as it is so unique from all other modules and I have gained a larger interest in avionics and the computing side of engineering and what it can accomplish.
 
