@@ -41,11 +41,11 @@ You can use the requirement.txt for an ease of installing the following python p
   <li>webcolors</li>
   <li>pytesseract</li>
 
-if using on the raspberry pi, you need:
+<li>if using on the raspberry pi, you need:
   <li>picamera</li>
 
 
-As well as this, some other hardware and software is required:
+<li>As well as this, some other hardware and software is required:
   <li>NEO-6M GPS Module
   <li>Arducam 8mp Autofocus Camera Module
   <li>Subscription to Twilio
