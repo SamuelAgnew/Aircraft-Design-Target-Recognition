@@ -43,7 +43,12 @@ You can use the requirement.txt for an ease of installing the following python p
 
 if using on the raspberry pi, you need:
   <li>picamera</li>
-  <li>NEO-6m GPS Module
+
+
+As well as this, some other hardware and software is required:
+  <li>NEO-6M GPS Module
+  <li>Arducam 8mp Autofocus Camera Module
+  <li>Subscription to Twilio
 
 
 
