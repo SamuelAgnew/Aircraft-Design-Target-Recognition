@@ -30,6 +30,10 @@ You can find the target detection inside the **main.py**.
 
 To run the code type into the command line / Terminal the following command: ```python3 -m main```
 
+If using GPS is desired then the following two lines of code are required to activate it:
+  ```sudo systemctl stop gpsd.socket```
+  ```sudo gpsd /dev/serial0 -F /var/run/gpsd.sock```
+
 # Issue
   <li>It is only able to detect the a single square target per frame/image.</li>
 
