@@ -1,0 +1,11 @@
+.idea
+__pycache__
+*.mp4
+color
+results
+threshold
+*.csv
+TimeTest.py
+*.xlsx
+venv
+result_dir
